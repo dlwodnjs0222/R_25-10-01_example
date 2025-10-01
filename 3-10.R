@@ -1,0 +1,6 @@
+dim(iris)
+nrow(iris)
+ncol(iris)
+colnames(iris)
+head(iris)
+tail(iris)

@@ -1,0 +1,5 @@
+mydata <- c(60, 62, 64, 65, 68, 69, 120)
+var(mydata)
+sd(mydata)
+range(mydata)
+diff(range(mydata))

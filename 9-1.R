@@ -1,5 +1,5 @@
 library(ggmap)
-register_google(key = 'AIzaSyC_IrSCsdWTK0n-JgRxeDQAKIwmg-LcpfI')
+register_google(key = 'API key')
 
 gc <- geocode(enc2utf8("Á¾·Î±¸"))
 gc
